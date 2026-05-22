@@ -1,0 +1,14 @@
+C:\Users\Nthuxeko.Chabalala\source\repos\Pillars of OOP\Pillars of OOP\bin\Debug\net10.0\Pillars of OOP.exe
+C:\Users\Nthuxeko.Chabalala\source\repos\Pillars of OOP\Pillars of OOP\bin\Debug\net10.0\Pillars of OOP.deps.json
+C:\Users\Nthuxeko.Chabalala\source\repos\Pillars of OOP\Pillars of OOP\bin\Debug\net10.0\Pillars of OOP.runtimeconfig.json
+C:\Users\Nthuxeko.Chabalala\source\repos\Pillars of OOP\Pillars of OOP\bin\Debug\net10.0\Pillars of OOP.dll
+C:\Users\Nthuxeko.Chabalala\source\repos\Pillars of OOP\Pillars of OOP\bin\Debug\net10.0\Pillars of OOP.pdb
+C:\Users\Nthuxeko.Chabalala\source\repos\Pillars of OOP\Pillars of OOP\obj\Debug\net10.0\Pillars of OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nthuxeko.Chabalala\source\repos\Pillars of OOP\Pillars of OOP\obj\Debug\net10.0\Pillars of OOP.AssemblyInfoInputs.cache
+C:\Users\Nthuxeko.Chabalala\source\repos\Pillars of OOP\Pillars of OOP\obj\Debug\net10.0\Pillars of OOP.AssemblyInfo.cs
+C:\Users\Nthuxeko.Chabalala\source\repos\Pillars of OOP\Pillars of OOP\obj\Debug\net10.0\Pillars of OOP.csproj.CoreCompileInputs.cache
+C:\Users\Nthuxeko.Chabalala\source\repos\Pillars of OOP\Pillars of OOP\obj\Debug\net10.0\Pillars of OOP.dll
+C:\Users\Nthuxeko.Chabalala\source\repos\Pillars of OOP\Pillars of OOP\obj\Debug\net10.0\refint\Pillars of OOP.dll
+C:\Users\Nthuxeko.Chabalala\source\repos\Pillars of OOP\Pillars of OOP\obj\Debug\net10.0\Pillars of OOP.pdb
+C:\Users\Nthuxeko.Chabalala\source\repos\Pillars of OOP\Pillars of OOP\obj\Debug\net10.0\Pillars of OOP.genruntimeconfig.cache
+C:\Users\Nthuxeko.Chabalala\source\repos\Pillars of OOP\Pillars of OOP\obj\Debug\net10.0\ref\Pillars of OOP.dll

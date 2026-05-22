@@ -1,0 +1,14 @@
+C:\Users\Nthuxeko.Chabalala\source\repos\Inheritence\Inheritence\bin\Debug\net10.0\Inheritence.exe
+C:\Users\Nthuxeko.Chabalala\source\repos\Inheritence\Inheritence\bin\Debug\net10.0\Inheritence.deps.json
+C:\Users\Nthuxeko.Chabalala\source\repos\Inheritence\Inheritence\bin\Debug\net10.0\Inheritence.runtimeconfig.json
+C:\Users\Nthuxeko.Chabalala\source\repos\Inheritence\Inheritence\bin\Debug\net10.0\Inheritence.dll
+C:\Users\Nthuxeko.Chabalala\source\repos\Inheritence\Inheritence\bin\Debug\net10.0\Inheritence.pdb
+C:\Users\Nthuxeko.Chabalala\source\repos\Inheritence\Inheritence\obj\Debug\net10.0\Inheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nthuxeko.Chabalala\source\repos\Inheritence\Inheritence\obj\Debug\net10.0\Inheritence.AssemblyInfoInputs.cache
+C:\Users\Nthuxeko.Chabalala\source\repos\Inheritence\Inheritence\obj\Debug\net10.0\Inheritence.AssemblyInfo.cs
+C:\Users\Nthuxeko.Chabalala\source\repos\Inheritence\Inheritence\obj\Debug\net10.0\Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\Nthuxeko.Chabalala\source\repos\Inheritence\Inheritence\obj\Debug\net10.0\Inheritence.dll
+C:\Users\Nthuxeko.Chabalala\source\repos\Inheritence\Inheritence\obj\Debug\net10.0\refint\Inheritence.dll
+C:\Users\Nthuxeko.Chabalala\source\repos\Inheritence\Inheritence\obj\Debug\net10.0\Inheritence.pdb
+C:\Users\Nthuxeko.Chabalala\source\repos\Inheritence\Inheritence\obj\Debug\net10.0\Inheritence.genruntimeconfig.cache
+C:\Users\Nthuxeko.Chabalala\source\repos\Inheritence\Inheritence\obj\Debug\net10.0\ref\Inheritence.dll
